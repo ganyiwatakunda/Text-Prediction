@@ -18,7 +18,7 @@ An n-gram language model is a language model that models sequences of words as a
 ## Demo
 
 Here is an example of the program output:
-![demo image of running program](https://github.com/ganyiwatakunda/Text-Prediction/blob/master/images/TextPredictionSample.png)
+![demo image of running program](https://github.com/ganyiwatakunda/Text-Prediction/blob/master/images/Text%20Prediction%20sample.png)
 ### final output of demo:
 User input: ***i wish you were*** <br />
 Prediction: ***i wish you were all talking together***<br />
